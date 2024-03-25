@@ -3,6 +3,9 @@ html {
     overflow: hidden;
     width: 100%;
   }
+.body, body{
+    background:red;
+}
   .space{
     opacity: 0.3;
   }
